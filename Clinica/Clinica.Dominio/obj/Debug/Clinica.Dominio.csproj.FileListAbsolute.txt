@@ -1,0 +1,11 @@
+C:\Users\carlos.arruda\Source\Repos\Clinica\Clinica.Dominio\bin\Debug\Clinica.Dominio.dll
+C:\Users\carlos.arruda\Source\Repos\Clinica\Clinica.Dominio\bin\Debug\Clinica.Dominio.pdb
+C:\Users\carlos.arruda\Source\Repos\Clinica\Clinica.Dominio\obj\Debug\Clinica.Dominio.csprojAssemblyReference.cache
+C:\Users\carlos.arruda\Source\Repos\Clinica\Clinica.Dominio\obj\Debug\Clinica.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\carlos.arruda\Source\Repos\Clinica\Clinica.Dominio\obj\Debug\Clinica.Dominio.dll
+C:\Users\carlos.arruda\Source\Repos\Clinica\Clinica.Dominio\obj\Debug\Clinica.Dominio.pdb
+C:\Users\Caio\Desktop\Clinica\Clinica.Dominio\bin\Debug\Clinica.Dominio.dll
+C:\Users\Caio\Desktop\Clinica\Clinica.Dominio\bin\Debug\Clinica.Dominio.pdb
+C:\Users\Caio\Desktop\Clinica\Clinica.Dominio\obj\Debug\Clinica.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\Clinica\Clinica.Dominio\obj\Debug\Clinica.Dominio.dll
+C:\Users\Caio\Desktop\Clinica\Clinica.Dominio\obj\Debug\Clinica.Dominio.pdb

@@ -1,0 +1,2 @@
+C:\Users\Caio\Desktop\Clinica\Clinica.Apresentacao\obj\Debug\Clinica.Apresentacao.csprojAssemblyReference.cache
+C:\Users\Caio\Desktop\Clinica\Clinica.Apresentacao\obj\Debug\Clinica.Apresentacao.csproj.CoreCompileInputs.cache
